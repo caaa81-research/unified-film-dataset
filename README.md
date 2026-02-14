@@ -61,3 +61,7 @@ The Numbers movie page:
 ## Created by
 
 Carlos A. del Alamo Alonso - cadelalamo@uloyola.es
+
+## Final database
+
+The final database (rar compressed) is available in the main folder
